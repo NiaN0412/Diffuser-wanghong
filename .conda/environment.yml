@@ -1,0 +1,4 @@
+# 精确环境配置
+dependencies:
+  - python=3.8
+  # 其他依赖请补充
